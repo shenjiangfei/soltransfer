@@ -1,0 +1,5 @@
+transfer_config:
+  rpcURL: "http://api.devnet.solana.com"
+  privateKey: "2bjM91REHQhsnUWGs5jVBSA7BimqQRAU3wbMKsfmFE5Vq79Z24vYWPPh8gq5mbdfjUHec1aUF9qdEx86GnDymH9h"
+  recipientPK: "JBuuAacpVBJs6XtPb1jc7yhZmHKSqFux7cnMvx3qx7YZ"
+  amount: 1000000000 # Amount in lamports
